@@ -1,0 +1,281 @@
+UNC13D
+UNC13D
+-1.63
+Very likely recessive
+0.059
+
+UNC45B
+UNC45B
+-0.695
+Very likely recessive
+0.13
+
+UNK
+UNK
+1.058
+Very likely dominant
+0.816
+
+USH1G
+USH1G
+-0.631
+Very likely recessive
+0.14
+
+USP22
+USP22
+0.151
+Likely recessive
+0.366
+
+USP32
+USP32
+2.112
+Very likely dominant
+0.99
+
+USP36
+USP36
+-1.504
+Very likely recessive
+0.064
+
+USP6
+USP6
+-1.119
+Very likely recessive
+0.085
+
+UTP18
+UTP18
+0.124
+Likely recessive
+0.354
+
+UTS2R
+UTS2R
+-0.691
+Very likely recessive
+0.131
+
+VAMP2
+VAMP2
+2.897
+Very likely dominant
+0.999
+
+VAT1
+VAT1
+-1.096
+Very likely recessive
+0.087
+
+VEZF1
+VEZF1
+1.044
+Very likely dominant
+0.811
+
+VMP1
+VMP1
+1.3
+Very likely dominant
+0.895
+
+VPS25
+VPS25
+1.007
+Likely dominant
+0.796
+
+VPS53
+VPS53
+-1.178
+Very likely recessive
+0.081
+
+VTN
+VTN
+1.462
+Very likely dominant
+0.931
+
+WBP2
+WBP2
+-0.016
+Likely recessive
+0.298
+
+WDR45B
+WDR45B
+-0.076
+Likely recessive
+0.276
+
+WDR81
+WDR81
+-0.703
+Very likely recessive
+0.129
+
+WFIKKN2
+WFIKKN2
+0.22
+Likely recessive
+0.397
+
+WIPF2
+WIPF2
+0.462
+Either dominant or recessive
+0.52
+
+WIPI1
+WIPI1
+-1.076
+Very likely recessive
+0.089
+
+WNK4
+WNK4
+0.151
+Likely recessive
+0.366
+
+WNT3
+WNT3
+2.697
+Very likely dominant
+0.999
+
+WNT9B
+WNT9B
+0.446
+Either dominant or recessive
+0.512
+
+WRAP53
+WRAP53
+0.705
+Likely dominant
+0.651
+
+WSB1
+WSB1
+0.83
+Likely dominant
+0.715
+
+WSCD1
+WSCD1
+-1.287
+Very likely recessive
+0.074
+
+XAF1
+XAF1
+-0.999
+Very likely recessive
+0.095
+
+XYLT2
+XYLT2
+0.095
+Likely recessive
+0.342
+
+YBX2
+YBX2
+0.248
+Either dominant or recessive
+0.411
+
+YPEL2
+YPEL2
+0.671
+Likely dominant
+0.633
+
+YWHAE
+YWHAE
+3.79
+Very likely dominant
+1
+
+ZACN
+ZACN
+-0.951
+Very likely recessive
+0.1
+
+ZBTB4
+ZBTB4
+1.051
+Very likely dominant
+0.813
+
+ZFP3
+ZFP3
+-0.757
+Very likely recessive
+0.122
+
+ZMYND15
+ZMYND15
+-1.84
+Very likely recessive
+0.054
+
+ZNF18
+ZNF18
+-1.278
+Very likely recessive
+0.075
+
+ZNF207
+ZNF207
+-0.092
+Likely recessive
+0.271
+
+ZNF232
+ZNF232
+-1.304
+Very likely recessive
+0.073
+
+ZNF652
+ZNF652
+0.394
+Either dominant or recessive
+0.484
+
+ZNF750
+ZNF750
+-0.375
+Very likely recessive
+0.19
+
+ZNHIT3
+ZNHIT3
+-0.739
+Very likely recessive
+0.124
+
+ZPBP2
+ZPBP2
+-0.992
+Very likely recessive
+0.096
+
+ZSWIM7
+ZSWIM7
+-4.245
+Very likely recessive
+0
+
+ZZEF1
+ZZEF1
+0.241
+Either dominant or recessive
+0.407

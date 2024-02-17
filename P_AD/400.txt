@@ -1,0 +1,599 @@
+GGA3
+GGA3
+-0.042
+Likely recessive
+0.288
+
+GGNBP2
+GGNBP2
+1.017
+Likely dominant
+0.8
+
+GGT6
+GGT6
+-0.216
+Likely recessive
+0.231
+
+GH1
+GH1
+-0.742
+Very likely recessive
+0.124
+
+GH2
+GH2
+-0.988
+Very likely recessive
+0.096
+
+GHDC
+GHDC
+-2.069
+Very likely recessive
+0.05
+
+GID4
+GID4
+0.628
+Likely dominant
+0.61
+
+GIP
+GIP
+-0.665
+Very likely recessive
+0.135
+
+GIT1
+GIT1
+1.159
+Very likely dominant
+0.853
+
+GJC1
+GJC1
+0.748
+Likely dominant
+0.673
+
+GJD3
+GJD3
+-0.102
+Likely recessive
+0.267
+
+GLOD4
+GLOD4
+-1.435
+Very likely recessive
+0.067
+
+GLP2R
+GLP2R
+-0.409
+Very likely recessive
+0.182
+
+GNA13
+GNA13
+1.884
+Very likely dominant
+0.98
+
+GNGT2
+GNGT2
+-0.74
+Very likely recessive
+0.124
+
+GOSR1
+GOSR1
+-0.815
+Very likely recessive
+0.115
+
+GOSR2
+GOSR2
+-0.603
+Very likely recessive
+0.145
+
+GP1BA
+GP1BA
+-0.173
+Likely recessive
+0.244
+
+GPATCH8
+GPATCH8
+0.52
+Either dominant or recessive
+0.551
+
+GPR142
+GPR142
+-1.066
+Very likely recessive
+0.089
+
+GPR179
+GPR179
+-0.677
+Very likely recessive
+0.133
+
+GPRC5C
+GPRC5C
+-1.169
+Very likely recessive
+0.082
+
+GPS1
+GPS1
+0.438
+Either dominant or recessive
+0.507
+
+GPS2
+GPS2
+0.526
+Either dominant or recessive
+0.555
+
+GRAP
+GRAP
+0.707
+Likely dominant
+0.652
+
+GRB2
+GRB2
+2.924
+Very likely dominant
+1
+
+GRB7
+GRB7
+1.171
+Very likely dominant
+0.857
+
+GRIN2C
+GRIN2C
+-0.24
+Likely recessive
+0.225
+
+GRN
+GRN
+-0.561
+Very likely recessive
+0.152
+
+GSDMA
+GSDMA
+-0.981
+Very likely recessive
+0.097
+
+GSDMB
+GSDMB
+-0.376
+Very likely recessive
+0.19
+
+GUCY2D
+GUCY2D
+-0.399
+Very likely recessive
+0.184
+
+HAP1
+HAP1
+-0.43
+Very likely recessive
+0.177
+
+HASPIN
+HASPIN
+-0.878
+Very likely recessive
+0.107
+
+HCRT
+HCRT
+-0.248
+Likely recessive
+0.222
+
+HDAC5
+HDAC5
+2.621
+Very likely dominant
+0.998
+
+HELZ
+HELZ
+0.899
+Likely dominant
+0.748
+
+HES7
+HES7
+0.751
+Likely dominant
+0.675
+
+HEXD
+HEXD
+-1.543
+Very likely recessive
+0.062
+
+HEXIM1
+HEXIM1
+1.485
+Very likely dominant
+0.935
+
+HEXIM2
+HEXIM2
+0.056
+Likely recessive
+0.326
+
+HGS
+HGS
+1.527
+Very likely dominant
+0.942
+
+HIC1
+HIC1
+0.849
+Likely dominant
+0.724
+
+HID1
+HID1
+0.012
+Likely recessive
+0.308
+
+HIGD1B
+HIGD1B
+-1.618
+Very likely recessive
+0.06
+
+HLF
+HLF
+1.326
+Very likely dominant
+0.901
+
+HNF1B
+HNF1B
+2.207
+Very likely dominant
+0.993
+
+HOXB1
+HOXB1
+1.358
+Very likely dominant
+0.909
+
+HOXB13
+HOXB13
+-0.485
+Very likely recessive
+0.166
+
+HOXB2
+HOXB2
+1.423
+Very likely dominant
+0.923
+
+HOXB3
+HOXB3
+2.053
+Very likely dominant
+0.988
+
+HOXB4
+HOXB4
+2.116
+Very likely dominant
+0.99
+
+HOXB5
+HOXB5
+1.456
+Very likely dominant
+0.929
+
+HOXB6
+HOXB6
+0.944
+Likely dominant
+0.769
+
+HOXB7
+HOXB7
+1.814
+Very likely dominant
+0.975
+
+HOXB8
+HOXB8
+0.861
+Likely dominant
+0.73
+
+HOXB9
+HOXB9
+1.276
+Very likely dominant
+0.888
+
+HS3ST3A1
+HS3ST3A1
+-0.972
+Very likely recessive
+0.098
+
+HS3ST3B1
+HS3ST3B1
+-0.615
+Very likely recessive
+0.143
+
+HSD17B1
+HSD17B1
+-0.704
+Very likely recessive
+0.129
+
+HSPB9
+HSPB9
+-0.261
+Likely recessive
+0.219
+
+ICAM2
+ICAM2
+-0.899
+Very likely recessive
+0.105
+
+IFI35
+IFI35
+-1.393
+Very likely recessive
+0.069
+
+IFT20
+IFT20
+-0.539
+Very likely recessive
+0.156
+
+IGF2BP1
+IGF2BP1
+0.679
+Likely dominant
+0.637
+
+IGFBP4
+IGFBP4
+-0.146
+Likely recessive
+0.253
+
+IKZF3
+IKZF3
+0.425
+Either dominant or recessive
+0.5
+
+INCA1
+INCA1
+-1.462
+Very likely recessive
+0.066
+
+INPP5K
+INPP5K
+-0.772
+Very likely recessive
+0.12
+
+INTS2
+INTS2
+0.585
+Either dominant or recessive
+0.586
+
+ITGA2B
+ITGA2B
+0.107
+Likely recessive
+0.347
+
+ITGA3
+ITGA3
+0.044
+Likely recessive
+0.321
+
+ITGAE
+ITGAE
+-1.295
+Very likely recessive
+0.074
+
+ITGB3
+ITGB3
+1.091
+Very likely dominant
+0.828
+
+ITGB4
+ITGB4
+-0.061
+Likely recessive
+0.281
+
+JMJD6
+JMJD6
+0.546
+Either dominant or recessive
+0.565
+
+JPT1
+JPT1
+-0.535
+Very likely recessive
+0.157
+
+JUP
+JUP
+1.512
+Very likely dominant
+0.939
+
+KANSL1
+KANSL1
+0.775
+Likely dominant
+0.687
+
+KAT2A
+KAT2A
+2.368
+Very likely dominant
+0.996
+
+KAT7
+KAT7
+2.16
+Very likely dominant
+0.992
+
+KCNAB3
+KCNAB3
+-0.63
+Very likely recessive
+0.14
+
+KCNH4
+KCNH4
+1.017
+Likely dominant
+0.8
+
+KCNH6
+KCNH6
+0.262
+Either dominant or recessive
+0.417
+
+KCNJ12
+KCNJ12
+0.157
+Likely recessive
+0.369
+
+KCNJ16
+KCNJ16
+-0.679
+Very likely recessive
+0.133
+
+KCNJ2
+KCNJ2
+1.842
+Very likely dominant
+0.977
+
+KCTD11
+KCTD11
+0.142
+Likely recessive
+0.362
+
+KCTD2
+KCTD2
+-0.818
+Very likely recessive
+0.114
+
+KDM6B
+KDM6B
+2.668
+Very likely dominant
+0.999
+
+KIAA0753
+KIAA0753
+-0.466
+Very likely recessive
+0.17
+
+KIF18B
+KIF18B
+0.197
+Likely recessive
+0.387
+
+KIF19
+KIF19
+0.303
+Either dominant or recessive
+0.438
+
+KIF1C
+KIF1C
+-0.055
+Likely recessive
+0.283
+
+KIF2B
+KIF2B
+0.66
+Likely dominant
+0.627
+
+KLHL10
+KLHL10
+1.162
+Very likely dominant
+0.854
+
+KLHL11
+KLHL11
+-0.301
+Likely recessive
+0.208
+
+KPNA2
+KPNA2
+1.851
+Very likely dominant
+0.978
+
+KPNB1
+KPNB1
+3.752
+Very likely dominant
+1
+
+KRT10
+KRT10
+1.125
+Very likely dominant
+0.841
